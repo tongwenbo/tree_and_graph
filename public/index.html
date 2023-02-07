@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+	<title>PCIV - Assignment</title>
+    <link rel="icon" type="image/png" href="./favicon.png" sizes="200x200">
+	<link href="./css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <nav>
+        <div>
+            <b>PCIV</b>
+            Assignment:
+            <span id="assignment_number"></span>
+        </div>
+        <span class="divider"></span>
+        <span id="name">{your name}</span>
+    </nav>
+    <main>
+        <div id="map_container">
+            <p style="color:navy; font-size:25px;font-weight: bold; text-align:center">
+                Steam games sorted by genres
+            </p>
+            <p style="color:black; font-size:15px;font-weight: bold; text-align:center">
+                Operation Hint 1: Each genre is represented by a color palette. 
+                Faint ones are the games; dark ones suggest a category. 
+                <br>
+                Press the dark section in each color palette to enlarge this category and further see its games and sub-categories.
+            </p>
+            <p style="color:black; font-size:15px;font-weight: bold; text-align:center"> Operation Hint 2: The size(arc angle) of each game reflects its popularity, 
+                which can be represented by 3 parameters. 
+                <br>
+                Choose the parameter on the right side to see different representations.
+                <select id="paraselect" onchange="getData()"> <option> Average Playtime </option>
+                <option> Median Playtime </option>
+                <option> Positive Ratings </option>
+                </select></p>"
+        </div>
+    </main>
+    <script src="./build/bundle.js"></script>
+</body>
+</html>

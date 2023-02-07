@@ -1,0 +1,267 @@
+{
+  "children": [
+    {
+      "all": "Action",
+      "children": [
+        {
+          "all": "Action,Adventure",
+          "children": [
+            {
+              "all": "Action,Adventure,Indie",
+              "children": [
+                {
+                  "name": "Terraria",
+                  "value": "255600"
+                },
+                {
+                  "name": "Path of Exile",
+                  "value": "71593"
+                }
+              ],
+              "name": "Indie"
+            },
+            {
+              "all": "Action,Adventure,Casual",
+              "children": [
+                {
+                  "name": "Unturned",
+                  "value": "292574"
+                }
+              ],
+              "name": "Casual"
+            },
+            {
+              "name": "Portal 2",
+              "value": "138220"
+            },
+            {
+              "name": "Tomb Raider",
+              "value": "93509"
+            },
+            {
+              "name": "Life is Strange - Episode 1",
+              "value": "118634"
+            }
+          ],
+          "name": "Adventure"
+        },
+        {
+          "all": "Action,RPG",
+          "children": [
+            {
+              "name": "Borderlands 2",
+              "value": "144595"
+            }
+          ],
+          "name": "RPG"
+        },
+        {
+          "all": "Action,Indie",
+          "children": [
+            {
+              "all": "Action,Indie,Racing",
+              "children": [
+                {
+                  "name": "Rocket League\u00ae",
+                  "value": "242561"
+                }
+              ],
+              "name": "Racing"
+            },
+            {
+              "name": "No More Room in Hell",
+              "value": "48190"
+            }
+          ],
+          "name": "Indie"
+        },
+        {
+          "name": "Counter-Strike",
+          "value": "124534"
+        },
+        {
+          "name": "Half-Life: Opposing Force",
+          "value": "5250"
+        },
+        {
+          "name": "Half-Life: Blue Shift",
+          "value": "3822"
+        },
+        {
+          "name": "Half-Life 2",
+          "value": "67902"
+        },
+        {
+          "name": "Counter-Strike: Source",
+          "value": "76640"
+        },
+        {
+          "name": "Day of Defeat: Source",
+          "value": "10489"
+        },
+        {
+          "name": "Half-Life 2: Episode One",
+          "value": "7908"
+        },
+        {
+          "name": "Portal",
+          "value": "51801"
+        },
+        {
+          "name": "Half-Life 2: Episode Two",
+          "value": "13902"
+        },
+        {
+          "name": "Team Fortress 2",
+          "value": "515879"
+        },
+        {
+          "name": "Left 4 Dead",
+          "value": "17951"
+        },
+        {
+          "name": "Left 4 Dead 2",
+          "value": "251789"
+        },
+        {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2",
+          "value": "30006"
+        },
+        {
+          "name": "Warframe",
+          "value": "226541"
+        }
+      ],
+      "name": "Action"
+    },
+    {
+      "all": "Adventure",
+      "children": [
+        {
+          "all": "Adventure,Casual",
+          "children": [
+            {
+              "all": "Adventure,Casual,Indie",
+              "children": [
+                {
+                  "name": "A Story About My Uncle",
+                  "value": "17924"
+                },
+                {
+                  "name": "Clicker Heroes",
+                  "value": "42530"
+                }
+              ],
+              "name": "Indie"
+            }
+          ],
+          "name": "Casual"
+        },
+        {
+          "all": "Adventure,Indie",
+          "children": [
+            {
+              "all": "Adventure,Indie,Simulation",
+              "children": [
+                {
+                  "name": "Don't Starve Together",
+                  "value": "108601"
+                }
+              ],
+              "name": "Simulation"
+            }
+          ],
+          "name": "Indie"
+        }
+      ],
+      "name": "Adventure"
+    },
+    {
+      "all": "Animation & Modeling",
+      "children": [
+        {
+          "all": "Animation & Modeling,Design & Illustration",
+          "children": [
+            {
+              "all": "Animation & Modeling,Design & Illustration,Utilities",
+              "children": [
+                {
+                  "name": "Wallpaper Engine",
+                  "value": "63623"
+                }
+              ],
+              "name": "Utilities"
+            }
+          ],
+          "name": "Design & Illustration"
+        }
+      ],
+      "name": "Animation & Modeling"
+    },
+    {
+      "all": "Indie",
+      "children": [
+        {
+          "all": "Indie,Simulation",
+          "children": [
+            {
+              "name": "Garry's Mod",
+              "value": "363721"
+            },
+            {
+              "name": "Euro Truck Simulator 2",
+              "value": "176769"
+            }
+          ],
+          "name": "Simulation"
+        }
+      ],
+      "name": "Indie"
+    },
+    {
+      "all": "RPG",
+      "children": [
+        {
+          "name": "The Elder Scrolls V: Skyrim",
+          "value": "237303"
+        },
+        {
+          "name": "The Witcher\u00ae 3: Wild Hunt",
+          "value": "202930"
+        }
+      ],
+      "name": "RPG"
+    },
+    {
+      "all": "Simulation",
+      "children": [
+        {
+          "all": "Simulation,Strategy",
+          "children": [
+            {
+              "name": "Cities: Skylines",
+              "value": "67553"
+            }
+          ],
+          "name": "Strategy"
+        }
+      ],
+      "name": "Simulation"
+    },
+    {
+      "all": "Strategy",
+      "children": [
+        {
+          "name": "Sid Meier's Civilization\u00ae V",
+          "value": "129030"
+        },
+        {
+          "name": "Age of Empires II HD",
+          "value": "54090"
+        }
+      ],
+      "name": "Strategy"
+    }
+  ],
+  "name": "root"
+}
